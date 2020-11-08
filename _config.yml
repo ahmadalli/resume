@@ -8,9 +8,6 @@ sass:
   sass_dir: _sass
   style: compressed
 
-gems:
-  - liquid-md5
-
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Ahmadali Shafiee"
