@@ -20,9 +20,9 @@ resume_contact_email:           "mail@ahmadalli.net"
 resume_contact_telephone:       "+989305164609"
 # resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>AI enthusiast, data lover, and experienced freelance software engineer with a demonstrated history of working in the software engineering industry. Skilled in DevOps tools, system administration,  and dotnet core technologies.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -44,14 +44,14 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/ahmadalli"
+  resume_twitter_url:           "https://twitter.com/ahmadalli"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/ahmadalli/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_website_url:           "https://ahmadalli.rocks"
+  resume_medium_url:            "https://medium.com/@ahmadalli"
 resume_print_social_links:      true
 
 # Design settings
