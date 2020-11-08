@@ -15,35 +15,22 @@
     - Ufw (Intermediate)
     - iptables (Basic)
 
-- skill: Infrastructure as a Code
-  subskills:
-    - Ansible (Intermediate)
-
-- skill: Virtualization
-  subskills:
-    - OpenNebula (Intermediate)
-    - libvitt (Basic)
-
-- skill: Cloud Environment Setup and Maintenance
-  subskills:
-    - Kubernetes (Intermediate)
-    - Rancher (Intermediate)
-
 - skill: Application Deployment to Cloud
   subskills:
     - Dockerization (Intermediate)
     - Kubernetes (Intermediate)
     - Helm (Intermediate)
 
-- skill: Monitoring and Alerting
+- skill: Message Queue
   subskills:
-    - Prometheus (Intermediate)
-    - Grafana (Basic)
+    - MQTT (Basic)
+    - RabbitMQ (Intermediate)
 
-- skill: Centralized Logging
+- skill: Web Server
   subskills:
-    - Graylog (Intermediate)
-    - Fluentd (Basic)
+    - Nginx (Intermediate)
+    - HA Proxy (Intermediate)
+    - Kubernetes Nginx Ingress Controller (Intermediate)
 
 - skill: Database
   subskills:
@@ -63,27 +50,40 @@
     - Minio (Intermediate)
     - Glusterfs (Basic)
 
-- skill: Message Queue
-  subskills:
-    - MQTT (Basic)
-    - RabbitMQ (Intermediate)
-
-- skill: Web Server
-  subskills:
-    - Nginx (Intermediate)
-    - HA Proxy (Intermediate)
-    - Kubernetes Nginx Ingress Controller (Intermediate)
-
 - skill: Inhouse Services
   subskills:
     - Gitlab CE (Intermediate)
     - Hashicorp Vault (Intermediate)
+
+- skill: Cloud Environment Setup and Maintenance
+  subskills:
+    - Kubernetes (Intermediate)
+    - Rancher (Intermediate)
+
+- skill: Virtualization
+  subskills:
+    - OpenNebula (Intermediate)
+    - libvitt (Basic)
+
+- skill: Monitoring and Alerting
+  subskills:
+    - Prometheus (Intermediate)
+    - Grafana (Basic)
+
+- skill: Centralized Logging
+  subskills:
+    - Graylog (Intermediate)
+    - Fluentd (Basic)
 
 - skill: Continuous Integration 
   subskills:
     - GitLab CI/CD (Intermediate)
     - GitHub Actions (Basic)
     - Travis CI (Basic)
+
+- skill: Infrastructure as a Code
+  subskills:
+    - Ansible (Intermediate)
 
 - skill: Machine Learning and Data Sciece
   subskills:
@@ -106,8 +106,8 @@
     - Python (Basic)
     - dotnet (Intermediate)
     - Java (Basic)
-    - JavaScript (Basic)
     - PHP (Intermediate)
+    - JavaScript (Basic)
 
 - skill: Frameworks
   subskills:
