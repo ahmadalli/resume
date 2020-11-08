@@ -3,14 +3,14 @@
   position: Technical Team Lead
   duration: June, 2019 &mdash; Present
   summary: |
-    Head of devops and infrastructure team which is responsible for
+    I'm the head of devops and infrastructure team which is responsible for:
     <ul>
-    <li>Making (and keeping) projects easy to deploy, by dockerizing, providing CI solutions, and making them ready to deploy on kubernetes cluster</li>
-    <li>Maintenance of core services including databases clusters, ceph storage cluster and other dependencies</li>
-    <li>Providing real time monitoring of services and proper alerting in order to keep services up all the time</li>
-    <li>Keeping documentations clean and up to date and using infrastructure automation tools (e.g. ansible) as much as possible</li>
+    <li>Making (and keeping) projects easy to deploy, by dockerizing, providing CI solutions, and making them ready to deploy on kubernetes cluster or other required environments (e.g. develop and staging environments)</li>
+    <li>Maintaining core services including databases clusters, ceph storage cluster and other dependencies.</li>
+    <li>Providing real time monitoring of services and proper alerting in order to keep services up all the time.</li>
+    <li>Keeping documentations clean and up to date and using infrastructure automation tools (e.g. ansible) as much as possible.</li>
     <li>R&D for new technologies which would satisfy business and technical requirements of other teams.</li>
-    <li>Developing microservices and automation tools in order to improve workflows on infrastructure or other teams</li>
+    <li>Developing microservices and automation tools in order to improve workflows on infrastructure or other teams.</li>
     </ul>
 
 - company: Turned on Digital
@@ -20,10 +20,11 @@
   summary: |
     I've had various responsibilities related to Percity game including
     <ul>
-    <li>Maintenance of the game's backend</li>
-    <li>Maintenance of the nodes hosting the backend and the services this relied on including Mysql, MQTT, and redis</li>
-    <li>Developing tools for extracting insights from user behaviors and a/b tests' results</li>
-    <li>Development of a/b testing platform for the game</li>
+    <li>Maintaining the game's backend.</li>
+    <li>Maintaining the games infrastructure</li>
+    <li>Maintaining the game's dependencies including Mysql, MQTT, and redis.</li>
+    <li>Development of a/b testing platform for the game.</li>
+    <li>Developing tools for extracting insights from user behaviors and a/b tests' results.</li>
     </ul>
 
 - company: Sibapp
@@ -46,7 +47,7 @@
     <ul>
     <li>Financial calculations such as complex promotion calculations.</li>
     <li>Inventory management system.</li>
-    <li>Business and operation reports</li>
+    <li>Business and operation reports.</li>
     </ul>
 
 - company: Huawei Technologies (Iran branch)
@@ -58,7 +59,7 @@
     <ul>
     <li>Operating Huawei MNS (mobile newspaper service).</li>
     <li>Generating daily reports and optimizing report query execution times.</li>
-    <li>UI/UX testing for bazik.mobi website and mobile app</li>
+    <li>UI/UX testing for bazik.mobi website and mobile app.</li>
     <li>Game content translation for games published at bazik.mobi.</li>
     </ul>
 
