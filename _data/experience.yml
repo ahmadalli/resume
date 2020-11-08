@@ -3,37 +3,50 @@
   position: Technical Team Lead
   duration: June, 2019 &mdash; Present
   summary: |
-    Head of DevOps and Infrastructure Team
+    Head of devops and infrastructure team which is responsible for
+    <ul>
+    <li>Making (and keeping) projects easy to deploy, by dockerizing, providing CI solutions, and ready to deploy on kubernetes cluster</li>
+    <li>Maintenance of core services including databases clusters, ceph storage cluster and other dependencies</li>
+    <li>Providing real time monitoring of services and proper alerting in order to keep services up all the time</li>
+    <li>Keeping documentations clean and up to date and using infrastructure automation tools (e.g. ansible) as much as possible</li>
+    <li>R&D for new technologies which would satisfy business and technical requirements of other teams.</li>
+    <li>Developing microservices and automation tools in order to improve workflows on infrastructure or other teams</li>
+    </ul>
 
 - company: Turned on Digital
   site: http://www.todco.ir
   position: DevOps Engineer and Junior Data Scientist
   duration:  Jan, 2018 &mdash; June, 2019
   summary: |
-    Backend Development of Percity Game
-    </br >
-    Infrastructure and Data Infrastructure improvement
-    </br >
-    Developing Tools and ETL Pipelines for Data Analysis
+    I've had various responsibilities related to Percity game including
+    <ul>
+    <li>Maintenance of the game's backend</li>
+    <li>Maintenance of the nodes hosting the backend and the services this relied on including Mysql, MQTT, and redis</li>
+    <li>Developing tools for extracting insights from user behaviors and a/b tests' results</li>
+    <li>Development of a/b testing platform for the game</li>
+    </ul>
 
 - company: Sibapp
   site: https://sibapp.com
   position: Senior Developer
   duration:   Nov, 2017 &mdash; May, 2010
   summary: |
-    Microservice development of application testing automation, and app registration in Apple developer panel automation.
+    Developed a microservice for automating the process of
+    testing submitted applications and Apple developer panel 
+    related tasks.
 
 - company: Anu Systems
   site: http://anusystem.ir
   position: Senior Developer
   duration:   Aug, 2016 &mdash; Apr, 2017
   summary: |
-    Maintaining and developing AlpaERP (ERP system developed for Alpa Distribution Co) using ASP.NET MVC, and EntityFramework.
+    Maintaining and developing one of the clients' ERP system written in ASP.NET MVC, and EntityFramework.
     </br >
     Worked Directly on:
     <ul>
     <li>Financial calculations such as complex promotion calculations.</li>
     <li>Inventory management system.</li>
+    <li>Business and operation reports</li>
     </ul>
 
 - company: Huawei Technologies (Iran branch)
@@ -48,3 +61,12 @@
     <li>UI/UX testing for bazik.mobi website and mobile app</li>
     <li>Game content translation for games published at bazik.mobi.</li>
     </ul>
+
+- company: Hamin
+  site: https://hamin.org/
+  position: Developer
+  duration:   June, 2015 &mdash; Feb, 2016
+  summary: |
+    Working on an accounting solution for small businesses.
+    The application was written in C# and Windows Forms and I was working one
+    refactoring the application and migrating it to MVC model.
