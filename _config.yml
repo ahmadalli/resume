@@ -24,8 +24,11 @@ resume_contact_telephone: "+98-930-516-4609"
 display_header_contact_info: "true"
 
 resume_header_intro: |
-  <p>I'm a DevOps engineer familiar with cloud native solutions and experience
-  application deployments on kubernetes and baremetal linux servers.
+  <p>I'm a DevOps engineer and technology geek looking for 
+  new opportunities to make lifes easier by automating and 
+  improving workflows and systems, 
+  familiar with cloud native solutions with experience
+  in setting up and mainaining private cloud solutions.
   I'm interested in AI and datascience and sometimes work on AI related prjects 
   on my spare time</p>
 
