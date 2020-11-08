@@ -9,19 +9,19 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar: "true"
 resume_avatar_url: "https://secure.gravatar.com/avatar/1a9310ef421c7cc67650f46f17e3f936?s=300"
-resume_name:                    "Ahmadali Shafiee"
-resume_title:                   "Head of DevOps Team at Sibche"
+resume_name: "Ahmadali Shafiee"
+resume_title: "Head of DevOps Team at Sibche"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "mail@ahmadalli.net"
+resume_contact_email: "mail@ahmadalli.net"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+98-930-516-4609"
-# resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone: "+98-930-516-4609"
+# resume_contact_address: "742 Evergreen Terrace, Springfield"
 
-display_header_contact_info:    "true"
+display_header_contact_info: "true"
 
 resume_header_intro: "<p>AI enthusiast, data lover, and experienced freelance software engineer with a demonstrated history of working in the software engineering industry. Skilled in DevOps tools, system administration,  and dotnet core technologies.</p>"
 
@@ -29,34 +29,34 @@ resume_header_intro: "<p>AI enthusiast, data lover, and experienced freelance so
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+resume_looking_for_work: "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
-resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_experience: true
+resume_section_education: true
+resume_section_projects: true
+resume_section_skills: true
+resume_section_recognition: true
+resume_section_links: true
+resume_section_associations: true
+# resume_section_interests: true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/ahmadalli"
-  resume_twitter_url:           "https://twitter.com/ahmadalli"
-  # resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/ahmadalli/"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "https://ahmadalli.rocks"
-  resume_medium_url:            "https://medium.com/@ahmadalli"
-resume_print_social_links:      true
+  resume_github_url: "https://github.com/ahmadalli"
+  resume_twitter_url: "https://twitter.com/ahmadalli"
+  # resume_dribbble_url: "https://dribbble.com/jag"
+  # resume_facebook_url: "insert Facebook URL here"
+  resume_linkedin_url: "https://www.linkedin.com/in/ahmadalli/"
+  # resume_instagram_url: "insert your Instagram URL here"
+  resume_website_url: "https://ahmadalli.rocks"
+  resume_medium_url: "https://medium.com/@ahmadalli"
+resume_print_social_links: true
 
 # Design settings
-resume_theme:                   default
+resume_theme: default
 
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
