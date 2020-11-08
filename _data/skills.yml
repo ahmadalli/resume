@@ -63,7 +63,7 @@
 - skill: Virtualization
   subskills:
     - OpenNebula (Intermediate)
-    - libvitt (Basic)
+    - libvirt (Basic)
 
 - skill: Monitoring and Alerting
   subskills:
