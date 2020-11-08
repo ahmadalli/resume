@@ -55,7 +55,7 @@
           {% if job.site == undefined %}
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
           {% else %}
-          <h3 class="resume-item-title" itemprop="name"><a href="{{ job.site }}" itemprop="address">{{ job.company }}</a></h3>
+          <h3 class="resume-item-title" itemprop="name"><a href="{{ job.site }}" itemprop="url">{{ job.company }}</a></h3>
           {% endif %}
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
           <p class="resume-item-copy">{{ job.summary }}</p>
