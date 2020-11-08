@@ -5,7 +5,7 @@
   summary: |
     Head of devops and infrastructure team which is responsible for
     <ul>
-    <li>Making (and keeping) projects easy to deploy, by dockerizing, providing CI solutions, and ready to deploy on kubernetes cluster</li>
+    <li>Making (and keeping) projects easy to deploy, by dockerizing, providing CI solutions, and making them ready to deploy on kubernetes cluster</li>
     <li>Maintenance of core services including databases clusters, ceph storage cluster and other dependencies</li>
     <li>Providing real time monitoring of services and proper alerting in order to keep services up all the time</li>
     <li>Keeping documentations clean and up to date and using infrastructure automation tools (e.g. ansible) as much as possible</li>
