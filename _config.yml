@@ -23,7 +23,11 @@ resume_contact_telephone: "+98-930-516-4609"
 
 display_header_contact_info: "true"
 
-resume_header_intro: "<p>AI enthusiast, data lover, and experienced freelance software engineer with a demonstrated history of working in the software engineering industry. Skilled in DevOps tools, system administration,  and dotnet core technologies.</p>"
+resume_header_intro: |
+  <p>I'm a DevOps engineer familiar with cloud native solutions and experience
+  application deployments on kubernetes and baremetal linux servers.
+  I'm interested in AI and datascience and sometimes work on AI related prjects 
+  on my spare time</p>
 
 # Decide which sections to use
 # comment out to hide
