@@ -125,7 +125,13 @@
         {% for skill in site.data.skills %}
         <div class="resume-item">
           <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          <p class="resume-item-copy">{{ skill.description }}</p>
+          <p class="resume-item-copy">
+            <ul>
+            {% for subskill in skill.subskills %}
+            <li>{{ subskill }}</li>
+            {% endfor %}
+            </ul>
+          </p>
         </div>
         {% endfor %}
 

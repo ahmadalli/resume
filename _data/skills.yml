@@ -1,12 +1,116 @@
-# Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Soft Skills
+  subskills:
+    - Self Disciplined
+    - Teamwork
+    - Familiar with Scrum, Kanban, Jira and YouTrack
+    - Project Management
+    - Deep Research and Troubleshoot Unknown Issues (On Software and Systems)
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Linux System Administration
+  subskills:
+    - Ubuntu (Intermediate)
+    - Centos (Basic)
+    - Networking (Basic)
+    - Systemd (Basic)
+    - Ufw (Intermediate)
+    - iptables (Basic)
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Infrastructure as a Code
+  subskills:
+    - Ansible (Intermediate)
+
+- skill: Virtualization
+  subskills:
+    - OpenNebula (Intermediate)
+    - libvitt (Basic)
+
+- skill: Cloud Environment Setup and Maintenance
+  subskills:
+    - Kubernetes (Intermediate)
+    - Rancher (Intermediate)
+
+- skill: Application Deployment to Cloud
+  subskills:
+    - Dockerization (Intermediate)
+    - Kubernetes (Intermediate)
+    - Helm (Intermediate)
+
+- skill: Monitoring and Alerting
+  subskills:
+    - Prometheus (Intermediate)
+    - Grafana (Basic)
+
+- skill: Centralized Logging
+  subskills:
+    - Graylog (Intermediate)
+    - Fluentd (Basic)
+
+- skill: Database
+  subskills:
+    - Percona MySQL Cluster (Intermediate)
+    - Mongodb (Basic)
+    - PostgreSQL (Basic)
+    - Redis (Intermediate)
+    - Elasticsearch (Intermediate)
+    - VictoriaMetrics (Intermediate)
+    - Influxdb (Basic)
+    - etcd (Basic)
+    - Consul (Basic)
+
+- skill: Cloud Storage
+  subskills:
+    - Ceph (Intermediate)
+    - Minio (Intermediate)
+    - Glusterfs (Basic)
+
+- skill: Message Queue
+  subskills:
+    - MQTT (Basic)
+    - RabbitMQ (Intermediate)
+
+- skill: Web Server
+  subskills:
+    - Nginx (Intermediate)
+    - HA Proxy (Intermediate)
+    - Kubernetes Nginx Ingress Controller (Intermediate)
+
+- skill: Inhouse Services
+  subskills:
+    - Gitlab CE (Intermediate)
+    - Hashicorp Vault (Intermediate)
+
+- skill: Continuous Integration 
+  subskills:
+    - GitLab CI/CD (Intermediate)
+    - GitHub Actions (Basic)
+    - Travis CI (Basic)
+
+- skill: Machine Learning and Data Sciece
+  subskills:
+    - Algorithms (Basic).
+    - Recommendation Algorithms (Basic)
+    - Pandas (Basic)
+    - R (Basic)
+    - Jupyter Notebooks (Intermediate)
+    - Neural Networks and Deep Learning (Basic)
+    - Keras (Basic)
+
+- skill: Software Architecture
+  subskills:
+    - Design Patterns (Intermediate)
+    - Microservice and Monolith Service Design
+
+- skill: Programming Languages
+  subskills:
+    - Bash (Intermediate) 
+    - Python (Basic)
+    - dotnet (Intermediate)
+    - Java (Basic)
+    - JavaScript (Basic)
+    - PHP (Intermediate)
+
+- skill: Frameworks
+  subskills:
+    - Laravel (Basic)
+    - ASP.Net (Intermediate)
+    - Flask (Basic)
