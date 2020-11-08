@@ -12,7 +12,7 @@ sass:
 resume_avatar: "true"
 resume_avatar_url: "https://secure.gravatar.com/avatar/1a9310ef421c7cc67650f46f17e3f936?s=300"
 resume_name: "Ahmadali Shafiee"
-resume_title: "Head of DevOps Team at Sibche"
+resume_title: "Head of DevOps and Infrastructure Team at Sibche"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email: "mail@ahmadalli.net"
