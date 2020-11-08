@@ -25,12 +25,12 @@ display_header_contact_info: "true"
 
 resume_header_intro: |
   <p>I'm a DevOps engineer and technology geek looking for 
-  new opportunities to make lifes easier by automating and 
-  improving workflows and systems, 
-  familiar with cloud native solutions with experience
-  in setting up and mainaining private cloud solutions.
-  I'm interested in AI and datascience and sometimes work on AI related prjects 
-  on my spare time</p>
+  new opportunities to make lives easier by automating and 
+  improving workflows and systems. I've worked 
+  with cloud native solutions and experienced setting up 
+  and mainaining private cloud solutions.
+  I'm also interested in AI and data science and I work on AI related prjects 
+  on my spare time.</p>
 
 # Decide which sections to use
 # comment out to hide
