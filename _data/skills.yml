@@ -9,7 +9,7 @@
 - skill: Linux System Administration
   subskills:
     - Ubuntu (Intermediate)
-    - Centos (Basic)
+    - CentOS (Basic)
     - Networking (Basic)
     - Systemd (Basic)
     - Ufw (Intermediate)
@@ -35,7 +35,7 @@
 - skill: Database
   subskills:
     - Percona MySQL Cluster (Intermediate)
-    - Mongodb (Basic)
+    - MongoDB (Basic)
     - PostgreSQL (Basic)
     - Redis (Intermediate)
     - Elasticsearch (Intermediate)
@@ -48,12 +48,12 @@
   subskills:
     - Ceph (Intermediate)
     - Minio (Intermediate)
-    - Glusterfs (Basic)
+    - GlusterFS (Basic)
 
-- skill: Inhouse Services
+- skill: In-House Services
   subskills:
     - Gitlab CE (Intermediate)
-    - Hashicorp Vault (Intermediate)
+    - HashiCorp Vault (Intermediate)
 
 - skill: Cloud Environment Setup and Maintenance
   subskills:
@@ -85,7 +85,7 @@
   subskills:
     - Ansible (Intermediate)
 
-- skill: Machine Learning and Data Sciece
+- skill: Machine Learning and Data Science
   subskills:
     - Algorithms (Basic).
     - Recommendation Algorithms (Basic)
