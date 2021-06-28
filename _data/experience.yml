@@ -1,22 +1,21 @@
+- company: Phinix
+  site: https://phinix.ir
+  position: DevOps Tech Lead
+  duration: March, 2021 &mdash; Present
+  summary: |
+    As the devops tech lead, I'm responsible for providing solutions for HA deployment of production services and their dependencies which is accomplished via kubernetes, rancher, percona MySQL cluster, OpenNebula, providing CI/CD solution for convenient testing, building, and deployment of services using Gitlab CI/CD, and helm charts, providing monitoring solutions for infrastructure and business metrics and SLIs using prometheus, grafana and alertmanager, and providing documentation and Infrastructure as Code solution using ansible
+
 - company: Sibche
   site: https://sibche.com
   position: Technical Team Lead
-  duration: June, 2019 &mdash; Present
+  duration: April, 2019 &mdash; March, 2021 (2 years)
   summary: |
-    I'm the head of devops and infrastructure team which is responsible for:
-    <ul>
-    <li>Making (and keeping) projects easy to deploy, by dockerizing, providing CI solutions, and making them ready to deploy on kubernetes cluster or other required environments (e.g. develop and staging environments)</li>
-    <li>Maintaining core services including databases clusters, ceph storage cluster and other dependencies.</li>
-    <li>Providing real time monitoring of services and proper alerting in order to keep services up all the time.</li>
-    <li>Keeping documentations clean and up to date and using infrastructure automation tools (e.g. ansible) as much as possible.</li>
-    <li>R&D for new technologies which would satisfy business and technical requirements of other teams.</li>
-    <li>Developing microservices and automation tools in order to improve workflows on infrastructure or other teams.</li>
-    </ul>
+    As the head of devops and infrastructure team, I had the responsibility of providing CI/CD solutions to technical teams for faster and smoother deployments, maintaining MySQL, Ceph, Redis, and Rabbitmq deployment in an HA environment alongside solutions for real time monitoring and alerting of all services , providing and maintaining solutions for documentations and Infrastructure as Code with ansible
 
 - company: Turned on Digital
   site: http://www.todco.ir
   position: DevOps Engineer and Junior Data Scientist
-  duration:  Jan, 2018 &mdash; June, 2019
+  duration:  March, 2018 &mdash; April, 2019 (1 year)
   summary: |
     I've had various responsibilities related to Percity game including
     <ul>
@@ -30,16 +29,22 @@
 - company: Sibapp
   site: https://sibapp.com
   position: Senior Developer
-  duration:   Nov, 2017 &mdash; Jan, 2018
+  duration: November, 2017 &mdash; February, 2018 (3 months)
   summary: |
     Developed a microservice for automating the process of
     testing submitted applications and Apple developer panel 
     related tasks.
 
+- company: Freelance Developer
+  position: Part Time Freelance Developer (8 months)
+  duration: April, 2017 &mdash; November, 2017
+  summary: |
+    I was working on a incomplete workflow automation project which was developed using Angular and ASP.NET Core while passing some computer science courses on Sharif University of Technology
+
 - company: Anu Systems
   site: http://anusystem.ir
   position: Senior Developer
-  duration:   Aug, 2016 &mdash; Apr, 2017
+  duration: August, 2016 &mdash; April, 2017 (9 months)
   summary: |
     Maintaining and developing one of the clients' ERP system written in ASP.NET MVC, and EntityFramework.
     </br >
@@ -53,7 +58,7 @@
 - company: Huawei Technologies (Iran branch)
   site: https://www.huawei.com/
   position: Internship
-  duration:   Feb, 2016 &mdash; Aug, 2016
+  duration: February, 2016 &mdash; August, 2016 (7 months)
   summary: |
     Operating VAS systems, Translating game content and web pages, creating financial and customer reports
     <ul>
@@ -66,7 +71,7 @@
 - company: Hamin
   site: https://hamin.org/
   position: Developer
-  duration:   June, 2015 &mdash; Feb, 2016
+  duration: June, 2015 &mdash; February, 2016 (9 months)
   summary: |
     Working on an accounting solution for small businesses.
     The application was written in C# and Windows Forms and I was working one
